@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuardianNews</string>
+    <string name="no_internet_connection">No Internet connection!Connect to a nearby wifi or network </string>
+    <string name="no_news"> No sports related news found! </string>
+    <string name="no_author"> No author, this is just a news </string>
+
+</resources>
